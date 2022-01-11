@@ -1,1 +1,1 @@
-readme.txt initialized
+readme.txt initialized for learning.
