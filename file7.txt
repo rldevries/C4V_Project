@@ -1,1 +1,1 @@
-Just another file in the root of the working directory called file7.txt
+Just another file in the root of the working directory called file7.txt and it was modified in BR-3 branch.
