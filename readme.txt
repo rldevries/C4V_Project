@@ -6,3 +6,4 @@ Chg3: changed git editor fm vim to notepad
 Chg3: used GitHub site and made chgs in repo
 Chg4:
 >>>>>>> 1f4b94a9bdd34d7aa4f045d24f45bd650c1bad31
+Chg5: upload completed HireFiveStar Project which connects Service Providers with Customers seeking Contractors.
